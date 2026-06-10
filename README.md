@@ -12,6 +12,7 @@ A minimal Rainmeter skin that displays ping status for any server or host with a
 | 🟡 High latency | Yellow | Ping between 50–499 ms |
 | 🔴 Offline | Red | No response |
 
+![Preview](preview.png)
 ## Requirements
 
 - [Rainmeter](https://www.rainmeter.net/) 4.0 or later
