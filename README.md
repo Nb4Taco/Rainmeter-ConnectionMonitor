@@ -1,6 +1,6 @@
 # Rainmeter Connection Monitor
 
-A minimal Rainmeter skin that displays ping status for any server or host with a color-coded indicator.
+A minimalistic Rainmeter skin that displays ping status for any server or host with a color-coded indicator.
 
 ![Status: Online](https://img.shields.io/badge/status-online-brightgreen) ![License: MIT](https://img.shields.io/badge/license-MIT-blue)
 
